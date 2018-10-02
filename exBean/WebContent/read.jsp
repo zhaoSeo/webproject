@@ -10,10 +10,6 @@
 	items = dao.selectStudent(); //selectStudent()메서드를 수행하여 List로 record set을 넘겨 받는다
 %>
 
- 
-
-
- 
 <!DOCTYPE html>
 <html>
 <head>
